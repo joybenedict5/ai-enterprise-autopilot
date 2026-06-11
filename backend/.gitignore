@@ -1,0 +1,9 @@
+# Secret keys — NEVER upload these
+.env
+__pycache__/
+*.pyc
+node_modules/
+build/
+data/chromadb/
+*.db
+.DS_Store

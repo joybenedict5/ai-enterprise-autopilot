@@ -1,0 +1,33 @@
+SUPPORT KNOWLEDGE BASE
+
+COMMON ISSUES AND SOLUTIONS:
+
+PASSWORD RESET:
+- Go to login page and click "Forgot Password"
+- Enter your company email address
+- Check inbox for reset link (valid for 24 hours)
+- If no email received, check spam folder
+- Contact IT support if issue persists: it@company.com
+
+VPN CONNECTION ISSUES:
+- Download latest VPN client from company portal
+- Use your employee ID and password to connect
+- If connection fails, restart your computer and try again
+- Whitelist VPN in firewall settings
+- IT helpdesk: ext 1234
+
+EMAIL ISSUES:
+- Check internet connection first
+- Clear browser cache and cookies
+- Try accessing via webmail: mail.company.com
+- Check if mailbox is full (limit: 50GB)
+
+LAPTOP ISSUES:
+- For hardware issues, raise ticket with serial number
+- Software installation requires IT approval
+- Restart resolves 80% of software issues
+
+ACCOUNT ACCESS:
+- Account lockout after 5 failed attempts
+- Unlock via self-service portal or call ext 1234
+- Password must be changed every 90 days
